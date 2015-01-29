@@ -1,0 +1,306 @@
+mke2fs 1.41.12 (17-May-2010)
+Discarding device blocks:      0/262144done                            
+Filesystem label=_/
+OS type: Linux
+Block size=4096 (log=2)
+Fragment size=4096 (log=2)
+Stride=0 blocks, Stripe width=0 blocks
+65536 inodes, 262144 blocks
+2621 blocks (1.00%) reserved for the super user
+First data block=0
+Maximum filesystem blocks=268435456
+8 block groups
+32768 blocks per group, 32768 fragments per group
+8192 inodes per group
+Superblock backups stored on blocks: 
+	32768, 98304, 163840, 229376
+
+Writing inode tables: 0/81/82/83/84/85/86/87/8done                            
+Creating journal (8192 blocks): done
+Writing superblocks and filesystem accounting information: done
+
+This filesystem will be automatically checked every 32 mounts or
+180 days, whichever comes first.  Use tune2fs -c or -i to override.
+tune2fs 1.41.12 (17-May-2010)
+Setting maximal mount count to -1
+Setting interval between checks to 0 seconds
+No such package *-firmware to remove
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/repodata/repomd.xml ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/repodata/primary.xml.gz ...OK
+Retrieving http://mirror.centos.org/centos/5.11/centosplus/x86_64/repodata/repomd.xml ...OK
+Retrieving http://mirror.centos.org/centos/5.11/centosplus/x86_64/repodata/primary.sqlite.bz2 ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/MAKEDEV-3.23-1.2.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/SysVinit-2.86-17.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/audit-libs-1.8-2.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/basesystem-8.0-5.1.1.el5.centos.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/bash-3.2-32.el5_9.1.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/bind-libs-9.3.6-20.P1.el5_8.6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/bind-utils-9.3.6-20.P1.el5_8.6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/binutils-2.17.50.0.6-26.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/bzip2-libs-1.0.3-6.el5_5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/centos-release-5-11.el5.centos.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/centos-release-notes-5.11-0.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/chkconfig-1.3.30.2-2.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/coreutils-5.97-34.el5_8.1.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/cpio-2.6-26.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/cracklib-2.8.9-3.3.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/cracklib-dicts-2.8.9-3.3.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/crontabs-1.10-11.el5.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/cyrus-sasl-lib-2.1.22-7.el5_8.1.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/db4-4.3.29-10.el5_5.2.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/device-mapper-1.02.67-2.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/device-mapper-event-1.02.67-2.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/device-mapper-multipath-0.4.7-63.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/diffutils-2.8.1-16.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/dmraid-1.0.0.rc13-65.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/dmraid-events-1.0.0.rc13-65.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/e2fsprogs-1.39-37.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/e2fsprogs-libs-1.39-37.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/elfutils-libelf-0.137-3.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/ethtool-6-4.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/expat-1.95.8-11.el5_8.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/filesystem-2.4.0-3.el5.centos.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/findutils-4.2.27-6.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/gawk-3.1.5-16.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/gdbm-1.8.0-28.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/glib2-2.12.3-4.el5_3.1.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/glibc-2.5-123.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/glibc-common-2.5-123.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/grep-2.5.1-55.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/grub-0.97-13.11.el5_10.1.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/gzip-1.3.5-13.el5.centos.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/hmaccalc-0.9.6-4.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/info-4.8-14.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/initscripts-8.45.45-1.el5.centos.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/iproute-2.6.18-15.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/iputils-20020927-46.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/iscsi-initiator-utils-6.2.0.872-16.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/keyutils-libs-1.2-1.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/kpartx-0.4.7-63.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/krb5-libs-1.6.1-78.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/less-436-9.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/libacl-2.2.39-8.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/libattr-2.4.32-1.1.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/libcap-1.10-26.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/libgcc-4.1.2-55.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/centosplus/x86_64/RPMS/libselinux-1.33.4-5.7.el5.centos.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/centosplus/x86_64/RPMS/libselinux-utils-1.33.4-5.7.el5.centos.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/libsepol-1.15.2-3.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/libstdc++-4.1.2-55.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/libsysfs-2.1.0-1.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/libtermcap-2.0.8-46.1.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/libuser-0.54.7-3.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/libutempter-1.1.4-4.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/libxml2-2.6.26-2.1.21.el5_9.3.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/logrotate-3.7.4-14.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/lvm2-2.02.88-13.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/m2crypto-0.16-9.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/mcstrans-0.2.11-3.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/mingetty-1.07-5.2.2.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/mkinitrd-5.1.19.6-82.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/mktemp-1.5-24.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/module-init-tools-3.3-0.pre3.1.63.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/nash-5.1.19.6-82.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/ncurses-5.5-24.20060715.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/net-tools-1.6warning: libgcc-4.1.2-55.el5.x86_64: Header V3 DSA/SHA1 Signature, key ID e8562897: NOKEY
+0-83.el5_10.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/nspr-4.10.6-1.el5_10.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/nss-3.16.1-2.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/openldap-2.3.43-28.el5_10.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/openssl-0.9.8e-27.el5_10.4.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/pam-0.99.6.2-12.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/passwd-0.73-2.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/pcre-6.6-9.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/popt-1.10.2.3-34.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/procps-3.2.7-26.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/psmisc-22.2-11.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/python-2.4.3-56.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/python-elementtree-1.2.6-5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/python-iniparse-0.2.3-6.el5.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/python-libs-2.4.3-56.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/python-sqlite-1.1.7-1.2.1.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/python-urlgrabber-3.1.0-6.el5.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/readline-5.1-3.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/redhat-logos-4.9.99-11.el5.centos.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/rootfiles-8.1-1.1.1.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/rpm-4.4.2.3-34.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/rpm-libs-4.4.2.3-34.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/rpm-python-4.4.2.3-34.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/rsyslog-3.22.1-7.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/sed-4.1.5-8.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/setup-2.5.58-9.el5.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/sgpio-1.2.0_10-2.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/shadow-utils-4.0.17-23.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/sqlite-3.3.6-7.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/tar-1.15.1-32.el5_8.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/termcap-5.5-1.20060701.1.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/tzdata-2014e-1.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/udev-095-14.32.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/util-linux-2.13-0.59.el5_8.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/vim-minimal-7.0.109-7.2.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/yum-3.2.22-40.el5.centos.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/yum-fastestmirror-1.1.16-21.el5.centos.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/yum-metadata-parser-1.1.2-4.el5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/5.11/os/x86_64/CentOS/zlib-1.2.3-7.el5.x86_64.rpm ...OK
+  Installing: libgcc                       ##################### [  1/112] 
+  Installing: setup                        ##################### [  2/112] 
+  Installing: filesystem                   ##################### [  3/112] 
+  Installing: basesystem                   ##################### [  4/112] 
+  Installing: nash                         ##################### [  5/112] 
+  Installing: cracklib-dicts               ##################### [  6/112] 
+  Installing: termcap                      ##################### [  7/112] 
+  Installing: centos-release-notes         ##################### [  8/112] 
+  Installing: tzdata                       ##################### [  9/112] 
+  Installing: glibc-common                 ##################### [ 10/112] 
+  Installing: glibc                        ##################### [ 11/112] 
+  Installing: mktemp                       ##################### [ 12/112] 
+  Installing: zlib                         ##################### [ 13/112] 
+  Installing: chkconfig                    ##################### [ 14/112] 
+  Installing: popt                         ##################### [ 15/112] 
+  Installing: glib2                        ##################### [ 16/112] 
+  Installing: nspr                         ##################### [ 17/112] 
+  Installing: bzip2-libs                   ##################### [ 18/112] 
+  Installing: audit-libs                   ##################### [ 19/112] 
+  Installing: libtermcap                   ##################### [ 20/112] 
+  Installing: bash                         ##################### [ 21/112] 
+  Installing: ncurses                      ##################### [ 22/112] 
+  Installing: info                         ##################### [ 23/112] 
+  Installing: libsepol                     ##################### [ 24/112] 
+  Installing: readline                     ##################### [ 25/112] 
+  Installing: sqlite                       ##################### [ 26/112] 
+  Installing: nss                          ##################### [ 27/112] 
+  Installing: sed                          ##################### [ 28/112] 
+  Installing: elfutils-libelf              ##################### [ 29/112] 
+  Installing: expat                        ##################### [ 30/112] 
+  Installing: libattr                      ##################### [ 31/112] 
+  Installing: libacl                       ##################### [ 32/112] 
+  Installing: libstdc++                    ##################### [ 33/112] 
+  Installing: db4                          ##################### [ 34/112] 
+  Installing: iproute                      ##################### [ 35/112] 
+  Installing: pcre                         ##################### [ 36/112] 
+  Installing: grep                         ##################### [ 37/112] 
+  Installing: hmaccalc                     ##################### [ 38/112] 
+  Installing: binutils                     ##################### [ 39/112] 
+  Installing: gawk                         ##################### [ 40/112] 
+  Installing: cpio                         ##################### [ 41/112] 
+  Installing: diffutils                    ##################### [ 42/112] 
+  Installing: less                         ##################### [ 43/112] 
+  Installing: gzip                         ##################### [ 44/112] 
+  Installing: procps                       ##################### [ 45/112] 
+  Installing: libxml2                      ##################### [ 46/112] 
+  Installing: iputils                      ##################### [ 47/112] 
+  Installing: centos-release               ##################### [ 48/112] 
+  Installing: crontabs                     ##################### [ 49/112] 
+  Installing: redhat-logos                 ##################### [ 50/112] 
+  Installing: gdbm                         ##################### [ 51/112] 
+  Installing: libsysfs                     ##################### [ 52/112] 
+  Installing: sgpio                        ##################### [ 53/112] 
+  Installing: cyrus-sasl-lib               ##################### [ 54/112] 
+  Installing: libcap                       ##################### [ 55/112] 
+  Installing: mingetty                     ##################### [ 56/112] 
+  Installing: ethtool                      ##################### [ 57/112] 
+  Installing: keyutils-libs                ##################### [ 58/112] 
+  Installing: openssl                      ##################### [ 59/112] 
+  Installing: python-libs                  ##################### [ 60/112] 
+  Installing: python                       ##################### [ 61/112] 
+  Installing: cracklib                     ##################### [ 62/112] 
+  Installing: iscsi-initiator-utils        ##################### [ 63/112] 
+  Installing: device-mapper-event          ##################### [ 64/112] 
+  Installing: dmraid-events                ##################### [ 65/112] 
+  Installing: findutils                    ##################### [ 66/112] 
+  Installing: psmisc                       ##################### [ 67/112] 
+  Installing: net-tools                    ##################### [ 68/112] 
+  Installing: shadow-utils                 ##################### [ 69/112]/usr/sbin/groupadd: error while loading shared libraries: libselinux.so.1: cannot open shared object file: No such file or directory
+/usr/sbin/groupadd: error while loading shared libraries: libselinux.so.1: cannot open shared object file: No such file or directory
+warning: group utmp does not exist - using root
+ 
+  Installing: libutempter                  ##################### [ 70/112] 
+  Installing: tar                          ##################### [ 71/112] 
+  Installing: SysVinit                     ##################### [ 72/112] 
+  Installing: e2fsprogs-libs               ##################### [ 73/112] 
+  Installing: e2fsprogs                    ##################### [ 74/112] 
+  Installing: lvm2                         ##################### [ 75/112] 
+  Installing: device-mapper-multipath      ##################### [ 76/112] 
+  Installing: dmraid                       ##################### [ 77/112] 
+  Installing: kpartx                       ##################### [ 78/112] 
+  Installing: device-mapper                ##################### [ 79/112] 
+  Installing: logrotate                    ##################### [ 80/112] 
+  Installing: libselinux                   ##################### [ 81/112] 
+  Installing: MAKEDEV                      ##################### [ 82/112] 
+  Installing: coreutils                    ##################### [ 83/112] 
+  Installing: pam                          ##################### [ 84/112] 
+  Installing: udev                         ##################### [ 85/112] 
+  Installing: krb5-libs                    ##################### [ 86/112] 
+  Installing: util-linux                   ##################### [ 87/112] 
+  Installing: mcstrans                     ##################### [ 88/112] 
+  Installing: rsyslog                      ##################### [ 89/112] 
+  Installing: initscripts                  ##################### [ 90/112] 
+  Installing: module-init-tools            ##################### [ 91/112] 
+  Installing: mkinitrd                     ##################### [ 92/112] 
+  Installing: rpm                          ##################### [ 93/112] 
+  Installing: rpm-libs                     ##################### [ 94/112] 
+  Installing: rpm-python                   ##################### [ 95/112] 
+  Installing: bind-libs                    ##################### [ 96/112] 
+  Installing: python-iniparse              ##################### [ 97/112] 
+  Installing: python-elementtree           ##################### [ 98/112] 
+  Installing: python-sqlite                ##################### [ 99/112] 
+  Installing: m2crypto                     ##################### [100/112] 
+  Installing: python-urlgrabber            ##################### [101/112] 
+  Installing: yum-metadata-parser          ##################### [102/112] 
+  Installing: yum-fastestmirror            ##################### [103/112] 
+  Installing: yum                          ##################### [104/112] 
+  Installing: openldap                     ##################### [105/112] 
+  Installing: libuser                      ##################### [106/112] 
+  Installing: passwd                       ##################### [107/112] 
+  Installing: bind-utils                   ##################### [108/112] 
+  Installing: libselinux-utils             ##################### [109/112] 
+  Installing: vim-minimal                  ##################### [110/112] 
+  Installing: grub                         ##################### [111/112] 
+  Installing: rootfiles                    ##################### [112/112]/var/tmp/imgcreate-_TpVr0/install_root/var/lib/rpm /home/reimzul/docker/out/20150129_0816/centos-5.11
+/home/reimzul/docker/out/20150129_0816/centos-5.11
+50+0 records in
+50+0 records out
+25600 bytes (26 kB) copied, 0.00373571 seconds, 6.9 MB/s
+error: failed to stat /cgroup/cpuset: No such file or directory
+error: package policycoreutils is not installed
+find: /usr/share/gnome: No such file or directory
+e2fsck 1.41.12 (17-May-2010)
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+_/: 16592/65536 files (0.2% non-contiguous), 91053/262144 blocks
+e2image 1.41.12 (17-May-2010)
+resize2fs 1.41.12 (17-May-2010)
+Resizing the filesystem on /var/tmp/imgcreate-_TpVr0/tmp-WJUHt_/ext3fs.img to 95304 (4k) blocks.
+The filesystem on /var/tmp/imgcreate-_TpVr0/tmp-WJUHt_/ext3fs.img is now 95304 blocks long.
+
+e2fsck 1.41.12 (17-May-2010)
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+_/: 16592/24576 files (0.2% non-contiguous), 88291/95304 blocks
+e2fsck 1.41.12 (17-May-2010)
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+_/: 16592/24576 files (0.2% non-contiguous), 88291/95304 blocks
+e2image 1.41.12 (17-May-2010)
+resize2fs 1.41.12 (17-May-2010)
+Resizing the filesystem on /var/tmp/imgcreate-_TpVr0/tmp-WJUHt_/ext3fs.img to 262144 (4k) blocks.
+The filesystem on /var/tmp/imgcreate-_TpVr0/tmp-WJUHt_/ext3fs.img is now 262144 blocks long.
+
+e2fsck 1.41.12 (17-May-2010)
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+_/: 16592/65536 files (0.2% non-contiguous), 91056/262144 blocks
+ 
+
