@@ -1,0 +1,352 @@
+mke2fs 1.41.12 (17-May-2010)
+Discarding device blocks:      0/262144done                            
+Filesystem label=_/
+OS type: Linux
+Block size=4096 (log=2)
+Fragment size=4096 (log=2)
+Stride=0 blocks, Stripe width=0 blocks
+65536 inodes, 262144 blocks
+2621 blocks (1.00%) reserved for the super user
+First data block=0
+Maximum filesystem blocks=268435456
+8 block groups
+32768 blocks per group, 32768 fragments per group
+8192 inodes per group
+Superblock backups stored on blocks: 
+	32768, 98304, 163840, 229376
+
+Writing inode tables: 0/81/82/83/84/85/86/87/8done                            
+Creating journal (8192 blocks): done
+Writing superblocks and filesystem accounting information: done
+
+This filesystem will be automatically checked every 33 mounts or
+180 days, whichever comes first.  Use tune2fs -c or -i to override.
+tune2fs 1.41.12 (17-May-2010)
+Setting maximal mount count to -1
+Setting interval between checks to 0 seconds
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/repodata/repomd.xml ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/repodata/9a3a8909e656c27cd85c75a2d53b491040effa3f170b0369172433843e1829d7-primary.sqlite.bz2 ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/MAKEDEV-3.24-6.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/audit-libs-2.3.7-5.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/basesystem-10.0-4.el6.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/bash-4.1.2-29.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/bind-libs-9.8.2-0.30.rc1.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/bind-utils-9.8.2-0.30.rc1.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/binutils-2.20.51.0.2-5.42.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/bzip2-libs-1.0.5-7.el6_0.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/ca-certificates-2014.1.98-65.1.el6.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/centos-release-6-6.el6.centos.12.2.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/checkpolicy-2.0.22-1.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/chkconfig-1.3.49.3-2.el6_4.1.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/coreutils-8.4-37.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/coreutils-libs-8.4-37.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/cpio-2.10-12.el6_5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/cracklib-2.8.16-4.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/cracklib-dicts-2.8.16-4.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/curl-7.19.7-37.el6_5.3.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/cyrus-sasl-lib-2.1.23-15.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/db4-4.7.25-18.el6_4.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/db4-utils-4.7.25-18.el6_4.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/dbus-glib-0.86-6.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/dbus-libs-1.2.24-7.el6_3.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/diffutils-2.8.1-28.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/elfutils-libelf-0.158-3.2.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/ethtool-3.5-5.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/expat-2.0.1-11.el6_2.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/file-libs-5.04-21.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/filesystem-2.4.30-3.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/findutils-4.4.2-6.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/gamin-0.1.10-9.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/gawk-3.1.7-10.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/gdbm-1.8.0-36.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/glib2-2.28.8-4.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/glibc-2.12-1.149.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/glibc-common-2.12-1.149.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/gmp-4.3.1-7.el6_2.2.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/gnupg2-2.0.14-8.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/gpgme-1.1.8-3.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/grep-2.6.3-6.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/groff-1.18.1.4-21.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/grub-0.97-93.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/gzip-1.3.12-22.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/hwdata-0.233-11.1.el6.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/info-4.13a-8.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/initscripts-9.03.46-1.el6.centos.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/iproute-2.6.32-32.el6_5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/iptables-1.4.7-14.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/iputils-20071127-17.el6_4.2.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/keyutils-libs-1.4-5.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/krb5-libs-1.10.3-33.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/less-436-13.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libacl-2.2.49-6.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libattr-2.4.44-7.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libblkid-2.17.2-12.18.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libcap-2.16-5.5.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libcom_err-1.41.12-21.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libcurl-7.19.7-37.el6_5.3.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libffi-3.0.5-3.2.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libgcc-4.4.7-11.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libgcrypt-1.4.5-11.el6_4.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libgpg-error-1.7-4.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libidn-1.18-2.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libnih-1.0.1-7.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libselinux-2.0.94-5.8.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libselinux-utils-2.0.94-5.8.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libsemanage-2.0.43-4.2.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libsepol-2.0.41-4.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libssh2-1.4.2-1.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libstdc++-4.4.7-11.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libtasn1-2.3-6.el6_5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libusb-0.1.12-23.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libuser-0.56.13-5.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libutempter-1.1.5-4.1.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libuuid-2.17.2-12.18.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/libxml2-2.7.6-14.el6_5.2.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/lua-5.1.4-4.1.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/make-3.81-20.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/mingetty-1.08-5.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/module-init-tools-3.9-24.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/ncurses-5.7-3.20090208.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/ncurses-base-5.7-3.20090208.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/ncurses-libs-5.7-3.20090208.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/net-tools-1.60-110.el6_2.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/nspr-4.10.6-1.el6_5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/nss-3.16.1-14.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/nss-softokn-3.14.3-17.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/nss-softokn-freebl-3.14.3-17.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/nss-sysinit-3.16.1-14.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/nss-tools-3.16.1-14.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/nss-util-3.16.1-3.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/openldap-2.4.39-8.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/openssl-1.0.1e-30.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/p11-kit-0.18.5-2.el6_5.2.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/p11-kit-trust-0.18.5-2.el6_5.2.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/pam-1.1.1-20.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/passwd-0.77-4.el6_2.2.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/pcre-7.8-6.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/pinentry-0.7.6-6.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/pkgconfig-0.23-9.1.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/policycoreutils-2.0.83-19.47.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/popt-1.13-7.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/procps-3.2.8-30.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/psmisc-22.6-19.el6_5.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/pth-2.0.7-9.3.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/pygpgme-0.1-18.20090824bzr68.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/python-2.6.6-52.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/python-iniparse-0.3.1-2.1.el6.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/python-libs-2.6.6-52.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/python-pycurl-7.19.0-8.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/python-urlgrabber-3.9.1-9.el6.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/readline-6.0-4.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/redhat-logos-60.0.14-12.el6.centos.noarch.rpm ...OK
+Retrieving httpwarning: libgcc-4.4.7-11.el6.x86_64: Header V3 RSA/SHA1 Signature, key ID c105b9de: NOKEY
+://mirror.centos.org/centos/6.6/os/x86_64/Packages/rootfiles-8.1-6.1.el6.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/rpm-4.8.0-37.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/rpm-libs-4.8.0-37.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/rpm-python-4.8.0-37.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/sed-4.2.1-10.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/setup-2.8.14-20.el6_4.1.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/shadow-utils-4.1.4.2-19.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/shared-mime-info-0.70-6.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/sqlite-3.6.20-1.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/sysvinit-tools-2.87-5.dsf.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/tzdata-2014g-1.el6.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/udev-147-2.57.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/upstart-0.6.5-13.el6_5.3.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/ustr-1.0.4-9.1.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/util-linux-ng-2.17.2-12.18.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/vim-minimal-7.2.411-1.8.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/xz-libs-4.999.9-0.5.beta.20091007git.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/yum-3.2.29-60.el6.centos.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/yum-metadata-parser-1.1.2-16.el6.x86_64.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/yum-plugin-fastestmirror-1.1.30-30.el6.noarch.rpm ...OK
+Retrieving http://mirror.centos.org/centos/6.6/os/x86_64/Packages/zlib-1.2.3-29.el6.x86_64.rpm ...OK
+  Installing: libgcc                       ##################### [  1/134] 
+  Installing: setup                        ##################### [  2/134] 
+  Installing: filesystem                   ##################### [  3/134] 
+  Installing: basesystem                   ##################### [  4/134] 
+  Installing: tzdata                       ##################### [  5/134] 
+  Installing: centos-release               ##################### [  6/134] 
+  Installing: ncurses-base                 ##################### [  7/134] 
+  Installing: nss-softokn-freebl           ##################### [  8/134] 
+  Installing: glibc-common                 ##################### [  9/134] 
+  Installing: glibc                        ##################### [ 10/134] 
+  Installing: ncurses-libs                 ##################### [ 11/134] 
+  Installing: bash                         ##################### [ 12/134] 
+  Installing: libattr                      ##################### [ 13/134] 
+  Installing: libcap                       ##################### [ 14/134] 
+  Installing: zlib                         ##################### [ 15/134] 
+  Installing: info                         ##################### [ 16/134] 
+  Installing: db4                          ##################### [ 17/134] 
+  Installing: popt                         ##################### [ 18/134] 
+  Installing: chkconfig                    ##################### [ 19/134] 
+  Installing: nspr                         ##################### [ 20/134] 
+  Installing: nss-util                     ##################### [ 21/134] 
+  Installing: libacl                       ##################### [ 22/134] 
+  Installing: bzip2-libs                   ##################### [ 23/134] 
+  Installing: audit-libs                   ##################### [ 24/134] 
+  Installing: libsepol                     ##################### [ 25/134] 
+  Installing: libselinux                   ##################### [ 26/134] 
+  Installing: sed                          ##################### [ 27/134]install-info: No such file or directory for /usr/share/info/sed.info.gz
+ 
+  Installing: shadow-utils                 ##################### [ 28/134] 
+  Installing: libidn                       ##################### [ 29/134]install-info: No such file or directory for /usr/share/info/libidn.info.gz
+ 
+  Installing: readline                     ##################### [ 30/134] 
+  Installing: libxml2                      ##################### [ 31/134] 
+  Installing: libstdc++                    ##################### [ 32/134] 
+  Installing: libcom_err                   ##################### [ 33/134] 
+  Installing: dbus-libs                    ##################### [ 34/134] 
+  Installing: lua                          ##################### [ 35/134] 
+  Installing: sqlite                       ##################### [ 36/134] 
+  Installing: file-libs                    ##################### [ 37/134] 
+  Installing: libgpg-error                 ##################### [ 38/134] 
+  Installing: elfutils-libelf              ##################### [ 39/134] 
+  Installing: xz-libs                      ##################### [ 40/134] 
+  Installing: nss-softokn                  ##################### [ 41/134] 
+  Installing: pcre                         ##################### [ 42/134] 
+  Installing: grep                         ##################### [ 43/134]install-info: No such file or directory for /usr/share/info/grep.info.gz
+ 
+  Installing: gawk                         ##################### [ 44/134] 
+  Installing: libtasn1                     ##################### [ 45/134] 
+  Installing: p11-kit                      ##################### [ 46/134] 
+  Installing: pth                          ##################### [ 47/134] 
+  Installing: expat                        ##################### [ 48/134] 
+  Installing: libuuid                      ##################### [ 49/134] 
+  Installing: sysvinit-tools               ##################### [ 50/134] 
+  Installing: libblkid                     ##################### [ 51/134] 
+  Installing: p11-kit-trust                ##################### [ 52/134] 
+  Installing: ca-certificates              ##################### [ 53/134] 
+  Installing: libgcrypt                    ##################### [ 54/134] 
+  Installing: libnih                       ##################### [ 55/134] 
+  Installing: upstart                      ##################### [ 56/134] 
+  Installing: gmp                          ##################### [ 57/134] 
+  Installing: libusb                       ##################### [ 58/134] 
+  Installing: MAKEDEV                      ##################### [ 59/134] 
+  Installing: libutempter                  ##################### [ 60/134] 
+  Installing: psmisc                       ##################### [ 61/134] 
+  Installing: net-tools                    ##################### [ 62/134] 
+  Installing: procps                       ##################### [ 63/134] 
+  Installing: libselinux-utils             ##################### [ 64/134] 
+  Installing: checkpolicy                  ##################### [ 65/134] 
+  Installing: findutils                    ##################### [ 66/134] 
+  Installing: pinentry                     ##################### [ 67/134] 
+  Installing: cyrus-sasl-lib               ##################### [ 68/134] 
+  Installing: db4-utils                    ##################### [ 69/134] 
+  Installing: diffutils                    ##################### [ 70/134] 
+  Installing: make                         ##################### [ 71/134] 
+  Installing: cpio                         ##################### [ 72/134] 
+  Installing: binutils                     ##################### [ 73/134] 
+  Installing: ncurses                      ##################### [ 74/134] 
+  Installing: groff                        ##################### [ 75/134]install-info: No such file or directory for /usr/share/info/groff.gz
+ 
+  Installing: less                         ##################### [ 76/134] 
+  Installing: coreutils-libs               ##################### [ 77/134] 
+  Installing: gzip                         ##################### [ 78/134] 
+  Installing: cracklib                     ##################### [ 79/134] 
+  Installing: cracklib-dicts               ##################### [ 80/134] 
+  Installing: coreutils                    ##################### [ 81/134] 
+  Installing: pam                          ##################### [ 82/134] 
+  Installing: module-init-tools            ##################### [ 83/134] 
+  Installing: hwdata                       ##################### [ 84/134] 
+  Installing: redhat-logos                 ##################### [ 85/134] 
+  Installing: nss                          ##################### [ 86/134] 
+  Installing: nss-sysinit                  ##################### [ 87/134] 
+  Installing: nss-tools                    ##################### [ 88/134] 
+  Installing: keyutils-libs                ##################### [ 89/134] 
+  Installing: krb5-libs                    ##################### [ 90/134] 
+  Installing: openssl                      ##################### [ 91/134] 
+  Installing: libssh2                      ##################### [ 92/134] 
+  Installing: libcurl                      ##################### [ 93/134] 
+  Installing: rpm-libs                     ##################### [ 94/134] 
+  Installing: curl                         ##################### [ 95/134] 
+  Installing: rpm                          ##################### [ 96/134] 
+  Installing: openldap                     ##################### [ 97/134] 
+  Installing: gnupg2                       ##################### [ 98/134]install-info: No such file or directory for /usr/share/info/gnupg.info
+ 
+  Installing: gpgme                        ##################### [ 99/134] 
+  Installing: bind-libs                    ##################### [100/134] 
+  Installing: ethtool                      ##################### [101/134] 
+  Installing: libffi                       ##################### [102/134] 
+  Installing: pkgconfig                    ##################### [103/134] 
+  Installing: gamin                        ##################### [104/134] 
+  Installing: glib2                        ##################### [105/134] 
+  Installing: shared-mime-info             ##################### [106/134] 
+  Installing: dbus-glib                    ##################### [107/134] 
+  Installing: libuser                      ##################### [108/134] 
+  Installing: ustr                         ##################### [109/134] 
+  Installing: libsemanage                  ##################### [110/134] 
+  Installing: gdbm                         ##################### [111/134] 
+  Installing: python                       ##################### [112/134] 
+  Installing: python-libs                  ##################### [113/134] 
+  Installing: yum-metadata-parser          ##################### [114/134] 
+  Installing: python-pycurl                ##################### [115/134] 
+  Installing: python-urlgrabber            ##################### [116/134] 
+  Installing: pygpgme                      ##################### [117/134] 
+  Installing: rpm-python                   ##################### [118/134] 
+  Installing: python-iniparse              ##################### [119/134] 
+  Installing: yum-plugin-fastestmirror     ##################### [120/134] 
+  Installing: yum                          ##################### [121/134] 
+  Installing: mingetty                     ##################### [122/134] 
+  Installing: policycoreutils              ##################### [123/134] 
+  Installing: iptables                     ##################### [124/134] 
+  Installing: iproute                      ##################### [125/134] 
+  Installing: iputils                      ##################### [126/134] 
+  Installing: util-linux-ng                ##################### [127/134]install-info: No such file or directory for /usr/share/info/ipc.info
+ 
+  Installing: initscripts                  ##################### [128/134] 
+  Installing: udev                         ##################### [129/134] 
+  Installing: grub                         ##################### [130/134]install-info: No such file or directory for /usr/share/info/grub.info.gz
+install-info: No such file or directory for /usr/share/info/multiboot.info.gz
+ 
+  Installing: passwd                       ##################### [131/134] 
+  Installing: bind-utils                   ##################### [132/134] 
+  Installing: vim-minimal                  ##################### [133/134] 
+  Installing: rootfiles                    ##################### [134/134]50+0 records in
+50+0 records out
+25600 bytes (26 kB) copied, 0.00386502 s, 6.6 MB/s
+install-info: No such file or directory for /usr/share/info/grub.info.gz
+install-info: No such file or directory for /usr/share/info/multiboot.info.gz
+error: Failed dependencies:
+	policycoreutils is needed by (installed) iptables-1.4.7-14.el6.x86_64
+find: `/usr/share/gnome/help': No such file or directory
+e2fsck 1.41.12 (17-May-2010)
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+_/: 13335/65536 files (0.2% non-contiguous), 68178/262144 blocks
+e2image 1.41.12 (17-May-2010)
+resize2fs 1.41.12 (17-May-2010)
+Resizing the filesystem on /var/tmp/imgcreate-7d9fjw/tmp-bkhEpv/ext3fs.img to 72988 (4k) blocks.
+The filesystem on /var/tmp/imgcreate-7d9fjw/tmp-bkhEpv/ext3fs.img is now 72988 blocks long.
+
+e2fsck 1.41.12 (17-May-2010)
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+_/: 13335/24576 files (0.3% non-contiguous), 65417/72988 blocks
+e2fsck 1.41.12 (17-May-2010)
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+_/: 13335/24576 files (0.3% non-contiguous), 65417/72988 blocks
+e2image 1.41.12 (17-May-2010)
+resize2fs 1.41.12 (17-May-2010)
+Resizing the filesystem on /var/tmp/imgcreate-7d9fjw/tmp-bkhEpv/ext3fs.img to 262144 (4k) blocks.
+The filesystem on /var/tmp/imgcreate-7d9fjw/tmp-bkhEpv/ext3fs.img is now 262144 blocks long.
+
+e2fsck 1.41.12 (17-May-2010)
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+_/: 13335/65536 files (0.3% non-contiguous), 68182/262144 blocks
+ 
+
